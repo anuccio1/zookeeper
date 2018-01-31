@@ -1,5 +1,6 @@
 # Apache ZooKeeper
 ![alt text](https://zookeeper.apache.org/images/zookeeper_small.gif "ZooKeeper")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fzookeeper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fzookeeper?ref=badge_shield)
 
 For the latest information about Apache ZooKeeper, please visit our website at:
 
@@ -43,3 +44,7 @@ is voted on and approved by the Apache ZooKeeper PMC:
 We always welcome new contributors to the project! See [How to Contribute](https://cwiki.apache.org/confluence/display/ZOOKEEPER/HowToContribute) for details on how to submit patch through pull request and our contribution workflow.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Fzookeeper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Fzookeeper?ref=badge_large)
